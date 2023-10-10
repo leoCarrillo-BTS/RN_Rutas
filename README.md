@@ -1,3 +1,17 @@
+App from the React Native course showcasing the following:
+
+- Implementation of map engines, in this case using Apple maps
+- Map common tasks like updating a set of coordinates , updating the focus point.
+- Accessing and updating the user's location
+- Drawing custom forms in the map.
+
+[VIDEO HERE](https://drive.google.com/file/d/1LEvAN3nNJ6Oc6cmqQNzktj0_Gg-wWUsB/view?usp=drive_link)
+
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-10-10 at 12 18 35](https://github.com/leoCarrillo-BTS/RN_Rutas/assets/60411044/7a81ac5b-c9c0-47f2-a26d-6ec69831157e)
+
+
+----
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
