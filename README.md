@@ -7,8 +7,7 @@ App from the React Native course showcasing the following:
 
 [VIDEO HERE](https://drive.google.com/file/d/1LEvAN3nNJ6Oc6cmqQNzktj0_Gg-wWUsB/view?usp=drive_link)
 
-![Simulator Screenshot - iPhone SE (3rd generation) - 2023-10-10 at 12 18 35](https://github.com/leoCarrillo-BTS/RN_Rutas/assets/60411044/7a81ac5b-c9c0-47f2-a26d-6ec69831157e)
-
+![Simulator Screenshot - iPhone SE (3rd generation) - 2023-10-10 at 12 18 35](https://github.com/leoCarrillo-BTS/RN_Rutas/assets/60411044/068d3f1e-65c8-4989-a333-11b887ca935c)
 
 ----
 
